@@ -18,7 +18,6 @@ public class CalculatePi {
         double π = NumPi.CalculatePi();
         System.out.println("Pi es :" + Double.toString(π));
     }
-    
 }
 
 class Pi
